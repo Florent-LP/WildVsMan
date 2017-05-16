@@ -1,0 +1,7 @@
+Père:	Manger remplit ta barre de faim (orange).
+Père:	Si cette barre atteint 0
+Père:	tu commenceras à mourir de faim.
+Père:	Ta santé commencera à descendre jusqu'à ta mort.
+Père:	Utilise aussi ce point d'eau pour étancher ta soif.
+Père:	Rapporche-t'en et appuie sur "E" pour boire.
+Père:	Tu pourras alors faire remonter ta barre de soif.

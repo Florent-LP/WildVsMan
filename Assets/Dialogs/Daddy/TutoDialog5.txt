@@ -1,0 +1,11 @@
+Père:	Vois-tu cet animal au loin?
+Père:	C'est un mouton.
+Père:	Je vais t'enseigner comment le chasser.
+Père:	Tu peux procéder discrètement ou non.
+Père:	Si ce mouton ne peut te voir
+Père:	alors appuie sur "E" pour le tuer.
+Père:	S'il t'a répéré
+Père:	il commencera à fuir pour s'éloigner de toi.
+Père:	Tu devras le pourchasser pour l'atteindre et le tuer.
+Père:	Compris?
+Père:	Regarde moi faire.
